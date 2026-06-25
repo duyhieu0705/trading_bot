@@ -205,7 +205,8 @@ tempCodeRunnerFile.py
 
 # Ruff stuff:
 .ruff_cache/
-
+echo "{}" > watchlist.json
+echo "{}" > state.json
 # PyPI configuration file
 .pypirc
 
